@@ -1,0 +1,22 @@
+
+footer{
+    background: #1b2a4e;
+    min-height: 70px;
+}
+footer p{
+    color: #f3f3f3;
+
+}
+
+.carousel-inner{
+    max-height: 30rem;
+}
+
+/* Medoa Querys */
+
+@media (max-width:768px)
+{
+    #intro{
+        width: 90% !important;
+    }
+}
